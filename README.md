@@ -27,13 +27,6 @@ A restaurant application for both guests and staff, including profile logs, orde
 An android application which uses location based system to find users who can accept requests for a small sum of cash.
 **[🔗 GitHub](https://github.com/DibyaSherchan/ChhimekiFrontend)**
 
----
-
-### 🧠 Image Classifier – CNN Model with TensorFlow  
-Custom-trained convolutional neural network to classify dog breeds with over 90% accuracy.  
-**[🔗 Google Colab](https://colab.research.google.com/drive/EXAMPLEID)** • **[🔗 GitHub](https://github.com/dibssherchan/dog-breed-classifier)**
-
----
 
 ## 📈 GitHub Stats
 
