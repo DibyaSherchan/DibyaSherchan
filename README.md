@@ -1,56 +1,55 @@
-# 👋 Hi, I’m Dibs Sherchan
+# 👋 Hi there, I'm Dibya Sherchan
 
-🎯 Passionate about building intuitive frontend apps and solving real-world problems through code.
+I am an undergraduate from Herald College Kathmandu, currently creating personal projects for companies by using languages such as MERN, React-Native, Front-End Stack etc.
 
-🔧 Skilled in **MERN Stack**, **React Native**, and **AI systems** like CNNs and Neural Networks.
-
-🌱 Currently working on: `Restaurant App` and learning `TypeScript` & `Next.js`
-
-📫 Reach me at: dibssherchan@gmail.com
+- 💼 Skilled in: React, React Native, Node.js, MongoDB, Express, Python
+- 🤖 Interested in: Game Development, Neural Networks, CNNs, and automation tools
+- 🚀 Currently building: A cross-platform restaurant management app (React Native + Supabase)
+- 🧠 Always learning: TypeScript, Next.js, DevOps basics
 
 ---
 
-## 🔨 Tech Stack
+## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,mongodb,express,git,github,tailwind,figma)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,mongodb,express,git,github,tailwind,figma,python,tensorflow,firebase)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🍽️ Restaurant App (React Native + Supabase)
-> A cross-platform app for guests and staff with real-time ordering and profile tracking.
-
-- 🔗 [Live Demo](#) • [GitHub Repo](#)
-- Technologies: React Native, Supabase, Expo
+### 🍽️ Restaurant App – React Native + Supabase  
+A restaurant application for both guests and staff, including profile logs, order tracking, and financial summaries.  
+**[🔗 GitHub Repository](https://github.com/DibyaSherchan/RestaurantApp)** • *(WIP)*
 
 ---
 
-### 🛒 MERN E-commerce Site
-> Full-featured e-commerce app with cart, auth, and admin dashboard.
-
-- 🔗 [Live Demo](#) • [GitHub Repo](#)
-- Technologies: React, Node.js, Express, MongoDB
+### 🛍️ Chhimeki - React Native + Firebase  
+An android application which uses location based system to find users who can accept requests for a small sum of cash.
+**[🔗 GitHub](https://github.com/DibyaSherchan/ChhimekiFrontend)**
 
 ---
 
-### 🧠 Image Classifier (AI + CNN)
-> Custom-built CNN model that classifies dog breeds with 90% accuracy.
-
-- 🔗 [Colab Notebook](#) • [GitHub Repo](#)
-- Technologies: Python, TensorFlow, Keras
+### 🧠 Image Classifier – CNN Model with TensorFlow  
+Custom-trained convolutional neural network to classify dog breeds with over 90% accuracy.  
+**[🔗 Google Colab](https://colab.research.google.com/drive/EXAMPLEID)** • **[🔗 GitHub](https://github.com/dibssherchan/dog-breed-classifier)**
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Dibs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibssherchan&show_icons=true&theme=tokyonight)
+![Dibs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibssherchan&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dibssherchan&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dibssherchan&layout=compact&theme=github_dark)
 
 ---
 
-## 🔗 Let’s Connect
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOURUSERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://YOURPORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dibya-sherchan-074670259/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://dibssherchan.dev)  
+📫 Email: **zsherchan030@gmail.com**
+
+---
+
+_“Building solutions that make everyday life easier, one app at a time.”_
+
