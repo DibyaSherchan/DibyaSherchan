@@ -30,16 +30,16 @@ An android application which uses location based system to find users who can ac
 
 ## 📈 GitHub Stats
 
-![Dibs's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibssherchan&show_icons=true&theme=github_dark)
+![Dibs's GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyaSherchan&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dibssherchan&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyaSherchan&layout=compact&theme=github_dark)
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dibya-sherchan-074670259/)  
-[![Portfolio](https://github.com/DibyaSherchan/NewPortfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://DibyaSherchan.github.io/NewPortfolio/)
 📫 Email: **zsherchan030@gmail.com**
 
 ---
