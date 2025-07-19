@@ -39,7 +39,6 @@ An android application which uses location based system to find users who can ac
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dibya-sherchan-074670259/)  
-[![Portfolio](https://dibyasherchan.github.io/NewPortfolio/)  
 📫 Email: **zsherchan030@gmail.com**
 
 ---
