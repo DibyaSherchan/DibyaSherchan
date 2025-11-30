@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dibya Sherchan
 
-I am an undergraduate from Herald College Kathmandu, currently creating personal projects for companies by using languages such as MERN, React-Native, Front-End Stack etc.
+I am a postgraduate from Herald College Kathmandu, currently creating personal projects for companies by using languages such as MERN, React-Native, Front-End Stack etc.
 
 - 💼 Skilled in: React, React Native, Node.js, MongoDB, Express, Python
 - 🤖 Interested in: Game Development, Neural Networks, CNNs, and automation tools
